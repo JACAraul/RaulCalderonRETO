@@ -35,10 +35,16 @@ funcionalidades principales:
   A continuacion detalla las funciones de cada usuario:
 
   **Usuario**    **Funcionalidad**
-  --
+  
   Paciente         Solicita citas...
-  --
+  
   Veterinario      Gestiona citas...
-  --
-  Administrador    Administra personal...  
+  
+  Administrador    Administra personal...
+
+  (Se que la tabla anterior se hace con estos simbolos "||" pero no me sale)
+
+  Diagrama de casos de uso:
+
+  ![]()
 
