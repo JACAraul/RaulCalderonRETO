@@ -48,3 +48,15 @@ funcionalidades principales:
 
   ![Foto](Fotos/Diagrama_examen.drawio.png)
 
+### Contribucion 
+1. Haz un fork en el repositorio
+2. crea una rama
+3. realiza tus cambios
+4. haz push
+5. Abre pull request
+
+### Subvencion 
+
+El proyecto esta subvencionado por el [gobierno de españa]()
+  
+
