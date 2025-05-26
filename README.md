@@ -59,6 +59,10 @@ funcionalidades principales:
 
 El proyecto esta subvencionado por el [gobierno de españa](https://www.infosubvenciones.es/bdnstrans/GE/es/inicio)
 
-Esta es la [documentacion tecnica]()
+Esta es la [documentacion tecnica](documentacion-tecnica.md)
+
+otros organismos colaboradores:
+
+![Foto](https://www.educantabria.es/errors/logo-educantabria-azul.png)
   
 
