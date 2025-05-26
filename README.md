@@ -46,5 +46,5 @@ funcionalidades principales:
 
   Diagrama de casos de uso:
 
-  ![]()
+  ![Foto](Fotos/Diagrama_examen.drawio.png)
 
