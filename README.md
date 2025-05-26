@@ -57,6 +57,8 @@ funcionalidades principales:
 
 ### Subvencion 
 
-El proyecto esta subvencionado por el [gobierno de españa]()
+El proyecto esta subvencionado por el [gobierno de españa](https://www.infosubvenciones.es/bdnstrans/GE/es/inicio)
+
+Esta es la [documentacion tecnica]()
   
 
